@@ -100,4 +100,4 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/obscure2000/obscure2000.github.io.git
-  branch: master
+  branch: main
