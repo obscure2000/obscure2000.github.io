@@ -1,7 +1,7 @@
-# GreatRepositories.github.io
+# obscure2000.github.io
 
 ```
-git clone -b source https://github.com/GreatRepositories/GreatRepositories.github.io.git
+git clone -b source https://github.com/obscure2000/obscure2000.github.io.git
 
 git clone https://github.com/theme-next/hexo-theme-next.git themes/next
 
